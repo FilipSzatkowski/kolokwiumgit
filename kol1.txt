@@ -2,3 +2,4 @@ modyfikacja 1
 zmiana 01
 zmiana 02
 zmiana 2
+zmianaklon
